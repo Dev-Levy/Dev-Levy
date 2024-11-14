@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dev-Levy
 - 👀 I’m interested in engineering, electronics and websites.
 - 🌱 I’m currently learning how to be a Computer Science Engineer at the University of Óbuda.
-- 💞️ I’m looking to collaborate on anything C# related or making websites.
+- 💞️ I’m looking to collaborate on anything C# related or low-level coding. I've been enjoying C++ and ASSEMBLY resently
 - 📫 How to reach me: just search for Oláh Levente on FB. I had a pfp with my French horn, so that's me.
